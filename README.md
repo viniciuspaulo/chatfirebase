@@ -1,1 +1,1 @@
-Simples Chat com Firebase.
+Simples chat com Firebase / PhoneGap
